@@ -1,0 +1,12 @@
+{
+  "synthetic_windows": 1200,
+  "candidate_alarm_windows": 191,
+  "true_positive": 191,
+  "false_positive": 0,
+  "true_negative": 1009,
+  "false_negative": 0,
+  "precision_synthetic_only": 1.0,
+  "recall_synthetic_only": 1.0,
+  "f1_synthetic_only": 1.0,
+  "validation_note": "Metrics describe only this synthetic dataset and are not field performance estimates."
+}
